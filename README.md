@@ -7,16 +7,12 @@ The project required cloning a source code and making the proper changes.
 
 
 ## Installation
-
+Navigate to https://chwd31.github.io/Module-1-Challenge/ for live site
 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+The website is intended for a Social Media Marketing company.  Changes were made to increase the accessibilty of the website.  Changes to the metadata, image alt tags, and HTMP semantics were corrected. These changes should meet accessibility and user requirements.  
 
 ## Credits
 
